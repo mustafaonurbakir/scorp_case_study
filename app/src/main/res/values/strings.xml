@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scorp Case Study</string>
+    <string name="error_sorry_something_went_wrong">Sorry! Something went wrong</string>
+    <string name="error_no_data">There is no data. It will be tried again automatically after 3 seconds.</string>
+    <string name="error_no_new_people">There is no one new. (ID filter)</string>
+    <string name="there_is_nobody_to_see">There is nobody to show!</string>
+</resources>
